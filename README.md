@@ -1,2 +1,5 @@
-# til
-Things I learned today
+# Things I Learned Today
+
+### Linux 
+
+- [Logs - Redhat](linux/logs_redhat.md)
