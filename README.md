@@ -4,6 +4,10 @@
 
 - [Logs - Redhat](linux/logs_redhat.md)
 
+### Bash
+
+- [SSH - On Windows](base/ssh_windows.md)
+
 ### Javascript
 
 - [TinyMCE - AJAX](javascript/tinymce_ajax.md)
