@@ -3,6 +3,7 @@
 ### Linux 
 
 - [Logs - Redhat](linux/logs_redhat.md)
+- [Services](linux/services.md)
 
 ### Bash
 
