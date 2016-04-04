@@ -16,6 +16,19 @@ and then execute it with:
 
     git permission-reset
 
+## Resetting Line Endings
+
+    git rm --cached -r .
+    git reset --hard
+
+To add an alias for re-use:
+
+    git config --global --add alias.crlf-reset '!git rm --cached -r -q . && git reset --hard'
+
+and then execute it with:
+
+    git crlf-reset
+
 ## Canceling Unpushed Commits
 
 This is useful for reversing unpushed merges, but also for single commits.
