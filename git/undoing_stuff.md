@@ -15,3 +15,9 @@ To add an alias for re-use:
 and then execute it with:
 
     git permission-reset
+
+## Canceling Unpushed Commits
+
+This is useful for reversing unpushed merges, but also for single commits.
+
+    git reset --hard HEAD~2
