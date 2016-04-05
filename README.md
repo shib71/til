@@ -19,4 +19,5 @@
 
 ### Git
 
-- [Git - Undoing Stuff](git/undoing_stuff.md)
+- [Undoing Stuff](git/undoing_stuff.md)
+- [Troubleshooting](git/troubleshooting.md)
