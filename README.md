@@ -21,3 +21,8 @@
 
 - [Undoing Stuff](git/undoing_stuff.md)
 - [Troubleshooting](git/troubleshooting.md)
+
+### Game Design
+
+- [Mental Tools](gamedesign/mental_tools.md)
+- [Components](gamedesign/components.md)
