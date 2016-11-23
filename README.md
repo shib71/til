@@ -22,6 +22,7 @@
 ### Git
 
 - [Undoing Stuff](git/undoing_stuff.md)
+- [Submodules](git/submodules.md)
 - [Troubleshooting](git/troubleshooting.md)
 
 ### Game Design
