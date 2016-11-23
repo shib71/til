@@ -5,6 +5,7 @@
 - [File System](linux/fs.md)
 - [Logs - Redhat](linux/logs_redhat.md)
 - [Services](linux/services.md)
+- [SSH](linux/ssh.md)
 
 ### Bash
 
