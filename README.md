@@ -1,12 +1,5 @@
 # Things I Learned Today
 
-### Linux 
-
-- [File System](linux/fs.md)
-- [Logs - Redhat](linux/logs_redhat.md)
-- [Services](linux/services.md)
-- [SSH](linux/ssh.md)
-
 ### Bash
 
 - [SSH - On Windows](base/ssh_windows.md)
@@ -15,9 +8,10 @@
 
 - [Docker Workbench](docker/workbench.md)
 
-### Javascript
+### Game Design
 
-- [TinyMCE - AJAX](javascript/tinymce_ajax.md)
+- [Mental Tools](gamedesign/mental_tools.md)
+- [Components](gamedesign/components.md)
 
 ### Git
 
@@ -25,7 +19,17 @@
 - [Submodules](git/submodules.md)
 - [Troubleshooting](git/troubleshooting.md)
 
-### Game Design
+### Javascript
 
-- [Mental Tools](gamedesign/mental_tools.md)
-- [Components](gamedesign/components.md)
+- [TinyMCE - AJAX](javascript/tinymce_ajax.md)
+
+### Linux 
+
+- [File System](linux/fs.md)
+- [Logs - Redhat](linux/logs_redhat.md)
+- [Services](linux/services.md)
+- [SSH](linux/ssh.md)
+
+### Python
+
+- [One Liners](python/one_liners.md)
